@@ -1,0 +1,64 @@
+body{
+
+    background-color: black;
+}
+
+#Texto1{
+    
+    width:80%;
+    font-family:Verdana;
+    font-size:10px;
+    text-align:justify;
+    color: aliceblue;
+    }
+
+    #p_texto1{
+    text-align:center;
+    margin-bottom:2em;
+    font-size: 20px;
+    color: aliceblue;
+
+     }
+    #imagen1{
+    float:left;
+    }
+    
+    #separacion{
+    clear:both;
+    }
+
+
+
+    #texto2{
+        width:100%;
+        float:right;
+        font-size:20px;
+        text-align:justify;
+        color: aliceblue;
+        }
+        #p_texto2{
+        text-align:center;
+        color: aliceblue;
+        }
+
+        p {
+            text-align: center;
+        }
+        
+        #imagen2{
+       float: left;
+       
+       
+        }
+
+        footer{ background-color: black;
+            color: rgb(255, 255, 255);
+            font-size: 20px;
+        
+        }
+
+
+
+       
+
+        
